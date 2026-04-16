@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test coverage
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# TypeScript incremental compilation
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+.claude
